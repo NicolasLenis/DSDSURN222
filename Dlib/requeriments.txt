@@ -1,0 +1,8 @@
+numpy==1.24.3
+scipy==1.6.0
+imutils==0.5.4
+threading
+dlib==19.24.0
+opencv-contrib-python==4.5.5.62
+opencv-python==4.6.0.66
+opencv-python-headless==4.6.0.66
